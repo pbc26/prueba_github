@@ -64,6 +64,16 @@ int main(int argc, char *argv[]) {
 			cout << "s" << gettext("Salir") << endl;
 
 
+
+
+
+
+
+
+
+
+
+
 			cout << KORDEN
 			getline(cin, opcion);
 
