@@ -64,7 +64,7 @@ int main(int argc, char *argv[]) {
 			cout << "s" << gettext("Salir") << endl;
 
 
-			cout << KORDEN;
+			cout << KORDEN
 			getline(cin, opcion);
 
 			if (opcion[0] == 'a') { //Añadir tarea
